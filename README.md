@@ -73,3 +73,10 @@ This dataset is designed for training and evaluating models in:
 The metadata file provides structured information for supervised learning tasks.
 
 Disclaimer: The information provided here is for educational purposes only. The developer is not responsible for any misuse of the application.
+
+
+## Acknowledgments
+
+The work presented here was funded in part from the European Union’s research and innovation projects OpenDR (grant agreement no 871449, Horizon 2020) and RoboSAPIENS (grant agreement no 101133807, Horizon Europe).
+This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
+
