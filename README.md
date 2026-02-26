@@ -1,6 +1,6 @@
-# AR_Humanoid_App
-AR Humanoid Dataset Generator
-This repository hosts the Android application package (APK) for an AR application designed to explore and capture 3D humanoid models in various angles and distances.
+# ARDataGen
+AR Humanoid Dataset Generator (ARDataGen)
+This repository hosts the Android application package (APK) for an AR application called ARDataGen designed to explore and capture 3D humanoid models in various angles and distances.
 
 ## App Overview:
 
